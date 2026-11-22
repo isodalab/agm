@@ -206,4 +206,12 @@ This project is entirely self-funded, and I have not applied for any grants. I a
 
 I do use AI tools like ChatGPT or Claude to help organize my ideas and catch errors, but most of the work comes from decades of coding practice and real-world professional experiences. I still design programs like this the old-fashioned way, with notebooks and a whiteboard, before the code takes shape. That said, AI has cut my build time from many months of late nights to weeks!
 
+## Thank you
+
+To my fantastic students and colleagues, who were so willing to test AGM in their own sessions.
+
+And to my wife, **Hyejin**, who is always supportive of me and my projects.
+
+— Hideki Isoda
+
 <sub>© 2026 Dr. Hideki Isoda / All Rights Reserved.</sub>
